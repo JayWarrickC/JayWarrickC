@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayWarrickC
 - 👀 I’m interested in program languages
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python and Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
